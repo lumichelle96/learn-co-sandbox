@@ -1,0 +1,2 @@
+bundle gem <Project_Name>
+git init
